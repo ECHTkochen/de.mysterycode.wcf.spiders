@@ -108,4 +108,8 @@
 	<spider ident="Toweya.com bot">
 		<name>Toweya</name>
 	</spider>
+	<spider ident="Uptimebot">
+		<name>Uptimebot</name>
+		<url>http://uptime.com/uptimebot</url>
+	</spider>
 </data>
